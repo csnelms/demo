@@ -1,0 +1,6 @@
+install node, will also install npm
+create "demo" directory
+open up terminal and it should open in demo root, if not cd into it
+copy package.json file from github.com/pluralsight-redux-demo into demo root
+delete scripts node from package.json
+$ npm install
